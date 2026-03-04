@@ -1,4 +1,14 @@
-## Hi there, I'm dev-ploy 👋
+<div align="center">
+
+# Hi there, I'm dev-ploy 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Machine+Learning+Enthusiast;Java+%7C+Python+%7C+JavaScript;Building+end-to-end+applications)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=dev-ploy&style=for-the-badge&color=6DB33F)
+
+</div>
+
+---
 
 I'm a **Full-Stack Developer** and **Machine Learning enthusiast** who loves building end-to-end applications — from intelligent ML models to production-ready web services.
 
@@ -26,7 +36,7 @@ I'm a **Full-Stack Developer** and **Machine Learning enthusiast** who loves bui
 - Docker containerisation and AWS deployments
 
 ### ⚡ Fun fact
-I built a wine quality prediction model and shipped it behind a Flask API — containerised with Docker and deployed through an AWS CI/CD pipeline, all in one project!
+I built a wine quality prediction model, shipped it behind a Flask API, containerised it with Docker, and deployed it through an AWS CI/CD pipeline — all in one project!
 
 ---
 
@@ -34,28 +44,45 @@ I built a wine quality prediction model and shipped it behind a Flask API — co
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Frameworks & Libraries**
 
-![React](https://img.shields.io/badge/React_19-61DAFB?style=flat&logo=react&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 **ML / Data Science**
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 **Databases & DevOps**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dev-ploy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ploy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=dev-ploy&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
@@ -71,3 +98,13 @@ I built a wine quality prediction model and shipped it behind a Flask API — co
 | [Movie Recommender System](https://github.com/dev-ploy/Movie-Recommender-System) | Content-based filtering recommender | Python, scikit-learn |
 | [GraphQL Implementation](https://github.com/dev-ploy/GRAPHQL_Implementation) | GraphQL APIs with Spring Boot | Java, Spring Boot |
 | [CRM](https://github.com/dev-ploy/Customer_Relationship_Management) | Customer Relationship Management app | JavaScript |
+
+---
+
+### 🤝 Connect with me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-dev--ploy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-ploy)
+
+</div>
